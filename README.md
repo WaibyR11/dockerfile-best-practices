@@ -41,7 +41,7 @@ docker build -t <image_name> -f Dockerfile.old .
 
 To run the image, you can use the following command:
 ``` bash
-docker run -it <image_name>
+docker run -it <image_name> gatodeloxxo789@gmail.com
 ```
 
 
